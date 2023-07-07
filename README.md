@@ -38,7 +38,7 @@
 
 1. [Pre Filter]にて任意の設定をする。
 
-    "Home" > "Pre-Filters" > "Readers List" > "ご利用のリーダ"を選択
+    "Home" > "Pre-Filters" を選択
 
     <br>
 
